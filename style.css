@@ -17,10 +17,11 @@ section{
 .half-width{
     width: 40%;
     padding-left:2%;
+    margin:100px;
 }
 .half-width img{
     width:100%;
-    padding-left:30%;
+    padding-left:0%;
 
 }
 .link-button{
@@ -33,6 +34,14 @@ section{
 }
 .top-banner{
     background-image: url(images/l.jpg);
-    background-size:95px;
+    background-size:250px;
     background-repeat:no-repeat;
 }
+.dream-big{
+    background-image: url(p.png);
+    background-repeat: no-repeat;
+    background-position:right;
+}
+
+}
+
